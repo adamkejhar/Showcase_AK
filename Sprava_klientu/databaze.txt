@@ -1,0 +1,4 @@
+Karel;Bumbal;13;123 582 642
+Jan;Nerado;15;333 389 123
+Ada;Lovelace;36;123 456 789
+Alan;Turing;47;101 001 011
